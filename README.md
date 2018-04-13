@@ -18,6 +18,6 @@ Who we are.
 
 How we operate.
 
-- [Product Manager Workflow]()
+- [Product Manager Workflow](https://github.com/mkelleher921/docs-product/blob/master/02-Playbook/Process.md)
 
 

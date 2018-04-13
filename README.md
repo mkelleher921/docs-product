@@ -2,7 +2,7 @@
 
 ## Product Wiki
 
-Welcome to our Product wiki. 
+Welcome to our Product Wiki. 
 
 Designers and developers are encouraged to contribute to this wiki as needed by opening
 an issue or pull request.

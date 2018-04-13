@@ -12,7 +12,7 @@ an issue or pull request.
 Who we are.
 
 - [Communication]()
-- [Onboarding]()
+
 
 ### [Process]()
 

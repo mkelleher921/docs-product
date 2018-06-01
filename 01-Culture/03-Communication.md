@@ -18,3 +18,20 @@ This meeting can take many forms based on the product being brainstormed:
 * Specification review and revisions based on PD’s feedback
 
 Product manager’s goal for this meeting is to have a prioritized list of user stories/ an idea of the users stories and requirements from PD to be spec’d out in the product specification for final review
+
+**Product Specification Final Review:**
+
+The goal of this meeting is to review a finalized product spec created by the PM. As in all build processes, things come up, and revisions may still need to be made after things are finalized… but the goal is to review the full product requirements and goals in heavy detail for what needs to be built. 
+
+This meeting serves as review of all the requirements gathering sessions and necessary brainstorms for the product build. No one on the PD team should be surprised by anything in this meeting! 
+
+Design runs on 1 week sprints, and starts their sprint every Monday, so spec reviews should be timed with that in mind in case there needs to be tasks added to their upcoming sprint.
+
+Product manager's goals for this meeting:
+
+*  Have sign off from Design on what needs to be designed, as well as confirmation of when we can estimate having designs finalized for handoff to Engineering. 
+
+* Have a fully prioritized list of user stories for the product being spec’d to add to the product area’s Trello backlog for the technical coordinator to estimate/review with Engineering to progress to Sprint Estimation. 
+
+
+

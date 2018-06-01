@@ -33,5 +33,26 @@ Product manager's goals for this meeting:
 
 * Have a fully prioritized list of user stories for the product being spec’d to add to the product area’s Trello backlog for the technical coordinator to estimate/review with Engineering to progress to Sprint Estimation. 
 
+## With Engineers
 
+Product Managers are responsible for clear communication with Engineering for planning and prioritization. PMs at ATTN: are generally responsible for the ‘what’ and the ‘why’ in regards to a product, while Engineering is responsible for filling in gaps for the ‘how’ and the ‘when’. PMs are accountable for this from ideation to launch, and we are responsible for getting engineering involved as early as possible to discover any unknowns for prioritization.  
+
+**Tech Brainstorms:**
+
+Product managers should come as prepared as possible. PMs are responsible for product requirements gathering and stakeholder/business requirements gathering before having a technical brainstorm, and should use the technical brainstorms to add or revise the possible product outcomes for the requirements gathered.
+
+Technical brainstorms should be used in an informal manner, and should always start with the technical lead in the area the product is for. 
+
+* Our current tech lead for all product areas is Colby Palmer, Director of Engineering
+* PM/Technical coordinator should reach out to Colby before setting the meeting and ask which engineers should be added to the brainstorm before setting the meeting.
+
+The product manager’s goal for this meeting is to gather needed technical investigations, additional details for requirements, and begin to create their respective Trello cards for the specification. These tasks should be broken down by the engineering team from each brainstorm until the final specification can be reviewed and agreed upon by both teams. 
+
+**Product Specification Review:**
+
+The goal of this meeting is to review a finalized product spec created by the PM. As in all build processes, things come up, and revisions may still need to be made… but the goal is to agree on full product requirements and goals in heavy detail for what needs to be built. 
+
+This specification should be in a finalized version with details included from the previous team brainstorms and technical investigations.
+
+Product manager’s goal for this meeting is to have sign off from Engineering on what needs to be built, as well as confirmation of how it will be built and a ballpark estimation for when. 
 

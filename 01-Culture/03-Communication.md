@@ -2,6 +2,10 @@
 
 Product Managers are accountable to communication standards with both internal teams and external stakeholders that may exceed other areas of P&E. As the owners of our areas, it is very important for us to maintain healthy communication channels where our products are being developed and used. It is important for us to proactively seek information to find needed product improvements, as well as advocate for technology and products that bring us closer to our area’s respective goals. 
 
+PMs at ATTN: always put empathy first. We understand that all teams have their own goals and needs… our job is to collaboratively support these goals as well as prioritize the order in which we work on products to support the overall company goals of ATTN: 
+
+We will always accept and be open to feedback wherever possible. Feedback is always good feedback… and we want an open door policy for all stakeholders and teams to get feedback early and often
+
 ## With Product Designers
 
 Product Managers and Product Designers are closely aligned at ATTN:, and we aim to welcome their feedback and expertise wherever possible. When bringing an initial specification to the Product Design team, there are a few standards we abide to: 
@@ -56,3 +60,16 @@ This specification should be in a finalized version with details included from t
 
 Product manager’s goal for this meeting is to have sign off from Engineering on what needs to be built, as well as confirmation of how it will be built and a ballpark estimation for when. 
 
+## With Stakeholders
+
+Requirements gathering is used to gather team stakeholder goals and non negotiables for each product on the PM’s product area roadmap
+
+PM is responsible for managing each stakeholder’s requirements as well as expectations for final product features based on the best fit from all stakeholders involved
+
+These should be used where needed, but should always have accountable goals attached
+
+PMs can structure this meeting however they see fit, but PM’s goal for this meeting should be to gather needed info to put together the ‘What’ and the ‘Why’, and also core components for each product they build
+
+PMs should have quarterly meetings that can be structured however the PM sees fit with their highest level area’s stakeholders to ensure the product area encompasses each team’s goals and needs for the business
+
+The goal of this meeting is to get accountable sign off on the upcoming products in the area’s pipeline, and also give stakeholders visibility to how each product supports or does not support their team’s goals
